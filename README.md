@@ -11,3 +11,5 @@ I created this android application using ChatGPT using webview
 ⚠️⚠️⚠️ Note ⚠️⚠️⚠️
 
 I don't own any content of ChatGPT, it is purely for educational purpose.
+
+Due to traffic it may take time to signup so be patient
